@@ -4,7 +4,7 @@
 
 ## Prototip Figma
 
-Accesează prototipul interactiv al aplicației EventPlanner la următorul [link Figma](https://link-ul_tău_figma_aici).
+Accesează prototipul interactiv al aplicației EventPlanner la următorul [link Figma](https://www.figma.com/design/U81a3tue8rkxSE7PhPTrB3/Untitled?node-id=0-1&t=j72O4nu3f0Xpkzqm-1).
 
 ## Descrierea aplicației
 
